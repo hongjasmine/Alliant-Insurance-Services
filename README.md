@@ -1,8 +1,8 @@
 # Alliant Insurance Servicers
 
 
-Software Engineering (Data Engineering) Intern at Alliant Insurance Services(June 2025-Aug 2025) | AGILE, VSCODE,Python
-Azure,SQL Server, GITHUB COPILOT,Streamlit (June 2025-August 2025)
+* Software Engineering (Data Engineering) Intern at Alliant Insurance Services(June 2025-Aug 2025) | AGILE, VSCODE,Python
+Azure,SQL Server, GITHUB COPILOT,Streamlit (June 2025-August 2025) *
 
 Developed and debugged Azure validation pipelines to generate automated reports for large-scale SQL database migrations,
      reducing validation time by 40% and improving data quality across enterprise systems; pipelines were successfully deployed to
