@@ -25,6 +25,6 @@ Designed and prototyped a validation application and presented live demos to dep
 Collaborated within an Agile development team, contributing to sprint planning, daily stand-ups, and iterative improvements 
      in data engineering workflows.
 
-##Final Deliverable
+## Final Deliverable
 
 https://docs.google.com/presentation/d/1P7DitptsadBG1gk6gVOW3Bat01b-IvBA/edit?slide=id.p8#slide=id.p8
